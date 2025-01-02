@@ -7,11 +7,12 @@ ACTUALMENTE NO DISPONIBLE FECHA DE LANZAMIENTO (Viernes 03/01/2025)
 
 Les dejo unos pequeños spoiler de lo que será el programa.
 
-![asdad](https://github.com/user-attachments/assets/0e4e6706-59e4-4f8f-b685-33774868c9e1)
+![asdad](https://github.com/user-attachments/assets/0e4e6706-59e4-4f8f-b685-33774868c9e1)</br>
 
 ===========================================================================================</br>
 <h3 align="center">I N S T A L A C I O N</h3></br>
 ===========================================================================================</br>
+</br>
 1.- DESCARGAMOS EL PROGRAMA 
 
 ![mega](https://github.com/user-attachments/assets/a1ea32d5-e76e-4e3b-afa0-3ac98fccd821)

@@ -11,6 +11,23 @@ Les dejo unos pequeños spoiler de lo que será el programa.
 
 ![asdad](https://github.com/user-attachments/assets/0e4e6706-59e4-4f8f-b685-33774868c9e1)
 
+=================================================================================================
+I N S T A L A C I Ó N   |  D I A R I O   D E   P A L I A
+=================================================================================================
+1.- DESCARGAMOS EL PROGRAMA 
+
+![mega](https://github.com/user-attachments/assets/a1ea32d5-e76e-4e3b-afa0-3ac98fccd821)
+
+![descarga](https://github.com/user-attachments/assets/37cd59f6-f85e-4328-99b3-84123b4ca18c)
+
+2.- UNA VEZ DESCARGADO NOS APARECERÁ EL SIGUIENTE MENSAJE DE WINDOWS PARA CONFIAR EN EL PROGRAMA. ESTO OCURRE TRAS NO TENER UN REGISTRO DEL PROGRAMA AL CREARSE DESDE 0, SE PULSARÁ EN "MÁS INFORMACIÓN" Y LUEGO EN "EJECUTAR DE TODAS FORMAS" 
+
+![ejecutar](https://github.com/user-attachments/assets/0ec6d96b-f6af-4a34-95df-f0da3226361b)
+
+3.- UNA VEZ REALIZADO LOS PASOS ANTERIORES ESTAREMOS DENTRO DEL PROGRAMA.
+
+![qwq](https://github.com/user-attachments/assets/bb4fcfbe-d560-4ad5-aab4-867c90e79167)
+
 Redes sociales:</br>
 Youtube: https://www.youtube.com/@PaliaComunidadSpain</br>
 Tik Tok: https://www.tiktok.com/@paliacomunidadspain</br>

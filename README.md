@@ -28,6 +28,8 @@ Les dejo unos pequeños spoiler de lo que será el programa.
 </br>
 Link de descarga: ACTUALMENTE NO DISPONIBLE FECHA DE LANZAMIENTO (Viernes 03/01/2025)
 
+</br></br>
+
 Redes sociales:</br>
 Youtube: https://www.youtube.com/@PaliaComunidadSpain</br>
 Tik Tok: https://www.tiktok.com/@paliacomunidadspain</br>

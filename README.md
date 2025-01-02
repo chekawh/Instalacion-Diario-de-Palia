@@ -10,7 +10,7 @@ Les dejo unos pequeños spoiler de lo que será el programa.
 ![asdad](https://github.com/user-attachments/assets/0e4e6706-59e4-4f8f-b685-33774868c9e1)
 
 ===========================================================================================</br>
-I N S T A L A C I Ó N   |  D I A R I O   D E   P A L I A</br>
+I N S T A L A C I Ó N   
 ===========================================================================================</br>
 1.- DESCARGAMOS EL PROGRAMA 
 

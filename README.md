@@ -26,7 +26,7 @@ Les dejo unos pequeños spoiler de lo que será el programa.
 ![qwq](https://github.com/user-attachments/assets/bb4fcfbe-d560-4ad5-aab4-867c90e79167)
 
 </br>
-Link de descarga: (https://mega.nz/file/AldzGbLa#Jt3FBh83ZqDCdBU61LJneUjG-qhfOq-kwlAF2B4BikA)
+Link de descarga: https://mega.nz/file/AldzGbLa#Jt3FBh83ZqDCdBU61LJneUjG-qhfOq-kwlAF2B4BikA
 
 </br></br>
 

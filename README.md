@@ -26,6 +26,7 @@ Les dejo unos pequeños spoiler de lo que será el programa.
 ![qwq](https://github.com/user-attachments/assets/bb4fcfbe-d560-4ad5-aab4-867c90e79167)
 
 </br>
+
 </br>
 
 Redes sociales:</br>

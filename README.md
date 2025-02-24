@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c4e5e75c-7a02-47ef-934a-fde40a218f4e)# Diario-de-Palia
+# Diario-de-Palia
 
 Diario de Palia es un programa completamente en español, NO oficial creado por ChekaWH propietario de Palia Comunidad Española.
 Este programa está creado en Python y compilado a .exe para ejecutarse desde cualquier ordenador Windows. Este proyecto llamado "Diario de Palia" es un programa GUÍA OFFLINE creado con la intención de recopilar toda la información que podemos encontrar en diversas páginas webs pero su función es simplificarla a esta aplicación y tenerla a mano en todo momento.  

@@ -26,6 +26,21 @@ Les dejo unos pequeños spoiler de lo que será el programa.
 ![qwq](https://github.com/user-attachments/assets/bb4fcfbe-d560-4ad5-aab4-867c90e79167)
 
 </br>
+4.- DIARIO DE PALIA ACTUALIZACIONES AUTOMÁTICAS. </br>
+
+  1.- DESCARGAR LA VERSIÓN 0.6 o la ultima versión.</br>
+
+  ![image](https://github.com/user-attachments/assets/20bcaa7b-6f40-49fd-989e-1e625ec96076)</br></br>
+
+  2.- Ejecutar el Diario de Palia.exe y nos saldrá las siguientes ventanas en caso de tener nueva actualización. Le daremos a que deseamos descargar la actualización y luego si queremos actualizarla ahora, le damos que sí a todo y le damos a aceptar para que cierre y se actualice.</br>
+![image](https://github.com/user-attachments/assets/b5fddffb-6c00-47b7-8588-0b95835a8b13)</br>
+
+![image](https://github.com/user-attachments/assets/324ab93d-ea46-4125-a125-21d5a4c9cf4c)</br>
+
+![image](https://github.com/user-attachments/assets/9ab9429d-dca9-416a-8a74-28178a4afea0)
+
+
+  
 
 </br>
 

@@ -25,7 +25,7 @@ Les dejo unos pequeños spoiler de lo que será el programa.
 
 ![qwq](https://github.com/user-attachments/assets/bb4fcfbe-d560-4ad5-aab4-867c90e79167)
 
-</br>
+</br></br>
 4.- DIARIO DE PALIA ACTUALIZACIONES AUTOMÁTICAS. </br></br>
 
   1.- DESCARGAR LA VERSIÓN 0.6 o la ultima versión.</br>

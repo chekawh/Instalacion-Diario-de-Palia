@@ -27,8 +27,8 @@ Les dejo unos pequeños spoiler de lo que será el programa.
 
 </br></br>
 =======================================================================</br>
-4.- DIARIO DE PALIA ACTUALIZACIONES AUTOMÁTICAS. 
-=======================================================================</br>
+DIARIO DE PALIA ACTUALIZACIONES AUTOMÁTICAS. 
+=======================================================================</br></br>
 
   1.- DESCARGAR LA VERSIÓN 0.6 o la ultima versión.</br>
 

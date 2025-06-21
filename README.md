@@ -5,7 +5,16 @@ Este programa está creado en Python y compilado a .exe para ejecutarse desde cu
 
 Les dejo unos pequeños spoiler de lo que será el programa.
 
-![asdad](https://github.com/user-attachments/assets/0e4e6706-59e4-4f8f-b685-33774868c9e1)</br>
+![Captura](https://github.com/user-attachments/assets/eba631ac-b17c-4ac9-b2c0-d37933838ae1)</br>
+
+![2](https://github.com/user-attachments/assets/6ac556c8-ac73-4be7-b3b0-5362ff413adb)</br>
+
+![3](https://github.com/user-attachments/assets/574301cb-80a0-4e99-8629-d553f93d8bd6)</br>
+
+![344](https://github.com/user-attachments/assets/418285bb-48df-4cb8-85fd-792e2e0f359a)</br>
+
+![4](https://github.com/user-attachments/assets/4721b0f4-da7e-4456-a5b2-a12eae4189a9)</br>
+
 
 ========================================================================</br>
 <h3 align="center">I N S T A L A C I O N</h3></br>
